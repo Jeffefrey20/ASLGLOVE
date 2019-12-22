@@ -1,7 +1,7 @@
 /***********************************************/
  /* Name of the project: ASL Glove              */
  /* Author:                                     */
- /* Date : 11/08/2019                           */
+ /* Date : 12/5/2019                           */
  /***********************************************/
 #include <LiquidCrystal.h>
 #include <SoftwareSerial.h>
