@@ -1,8 +1,8 @@
 /***********************************************/
- /* Name of the project: ASL Glove              */
- /* Author:                                     */
+ /* Name of the project: ASL Glove             */
+ /* Author: Jeffrey Chen                       */
  /* Date : 12/5/2019                           */
- /***********************************************/
+ /**********************************************/
 #include <LiquidCrystal.h>
 #include <SoftwareSerial.h>
 #include <Wire.h>
